@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Происшествие в Альква Лонде/Персонажи/Конан ап Родри.md",
+                    "file": "Происшествие в Альква Лонде/География/Брекилианский лес.md",
                     "mode": "preview",
                     "backlinks": true,
                     "source": true
@@ -27,133 +27,45 @@
             ]
           },
           {
-            "id": "664c6e2fac16f9a2",
-            "type": "split",
+            "id": "4c446ad3ccd61b4a",
+            "type": "tabs",
             "children": [
               {
-                "id": "4c446ad3ccd61b4a",
-                "type": "tabs",
-                "dimension": 72.17068645640074,
-                "children": [
-                  {
-                    "id": "e19c3c452c7ef04a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "Происшествие в Альква Лонде/Персонажи/Конан ап Родри.md",
-                        "options": {
-                          "collapse-filter": false,
-                          "search": "",
-                          "localJumps": 2,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": true,
-                          "colorGroups": [],
-                          "collapse-display": false,
-                          "showArrow": false,
-                          "textFadeMultiplier": 0.5,
-                          "nodeSizeMultiplier": 2.9328125,
-                          "lineSizeMultiplier": 1.83541666666667,
-                          "collapse-forces": false,
-                          "centerStrength": 0.223958333333333,
-                          "repelStrength": 18.2291666666667,
-                          "linkStrength": 0.755208333333333,
-                          "linkDistance": 500,
-                          "scale": 0.04231590268975967,
-                          "close": true
-                        }
-                      }
-                    }
-                  },
-                  {
-                    "id": "cc1f20305f90efa7",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "c974afae01ec26a8",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
+                "id": "e19c3c452c7ef04a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Происшествие в Альква Лонде/География/Брекилианский лес.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0.5,
+                      "nodeSizeMultiplier": 2.9328125,
+                      "lineSizeMultiplier": 1.83541666666667,
+                      "collapse-forces": false,
+                      "centerStrength": 0.223958333333333,
+                      "repelStrength": 18.2291666666667,
+                      "linkStrength": 0.755208333333333,
+                      "linkDistance": 500,
+                      "scale": 0.08317427835927664,
+                      "close": true
                     }
                   }
-                ]
-              },
-              {
-                "id": "98874884d299834f",
-                "type": "tabs",
-                "dimension": 27.82931354359926,
-                "children": [
-                  {
-                    "id": "b46e15a8fd3ea03e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "c36ac6969ba28024",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "2079e6a0f057d51a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "3c1df1dbeecf9c16",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "285c632dea2b5986",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "629d0baf52dbfa7a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "bf17e80b840011dc",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {}
-                    }
-                  }
-                ],
-                "stacked": true
+                }
               }
-            ],
-            "direction": "horizontal"
+            ]
           }
         ],
         "direction": "vertical"
@@ -222,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Происшествие в Альква Лонде/Персонажи/Конан ап Родри.md",
+                "file": "Происшествие в Альква Лонде/География/Брекилианский лес.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Происшествие в Альква Лонде/Персонажи/Конан ап Родри.md"
+                "file": "Происшествие в Альква Лонде/География/Брекилианский лес.md"
               }
             }
           },
@@ -275,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Происшествие в Альква Лонде/Персонажи/Конан ап Родри.md",
+                "file": "Происшествие в Альква Лонде/География/Брекилианский лес.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,12 +211,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "141d0b74fffa5c81",
+  "active": "02f57cd93967e8bd",
   "lastOpenFiles": [
+    "Происшествие в Альква Лонде/Локации/Альква Лонде.md",
+    "Происшествие в Альква Лонде/Персонажи/Конан ап Родри.md",
     "Происшествие в Альква Лонде/Персонажи/Бейдгар ап Адольгар.md",
     "Происшествие в Альква Лонде/Персонажи/Гвальхвин ап Гвинблейд.md",
     "Происшествие в Альква Лонде/Персонажи/Гвеннанта верх Алан.md",
-    "Происшествие в Альква Лонде/Локации/Альква Лонде.md",
     "Происшествие в Альква Лонде/Локации/Нимбар.md",
     "Происшествие в Альква Лонде/Stratas/Брекилиан.md",
     "Происшествие в Альква Лонде/Stratas/Посольство Эльфов.md",
@@ -318,7 +232,6 @@
     "Происшествие в Альква Лонде/Персонажи/Жена Родри ап Конвина.md",
     "Происшествие в Альква Лонде/Персонажи/Караллуин из Дома Цветущей Поляны.md",
     "Происшествие в Альква Лонде/Персонажи/Княгиня Эйрлиса.md",
-    "Происшествие в Альква Лонде/Персонажи/Конан ап Родри.md",
     "Происшествие в Альква Лонде/Персонажи/Конвин ап Конлас.md",
     "Происшествие в Альква Лонде/Персонажи/Конлас ап Бран.md",
     "Происшествие в Альква Лонде/Персонажи/Лаэриэль.md",
